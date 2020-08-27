@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a03a5fe-de4e-49c2-b32b-d077d0050b82" name="Default Changelist" comment="firstcommit">
-      <change afterPath="$PROJECT_DIR$/promptpay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.promptpay">
-    <configuration name="basic_concept (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python101" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_concept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.tuple_demo">
     <configuration name="condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python101" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,13 +124,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tuple_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuple_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tuple_demo" />
         <item itemvalue="Python.promptpay" />
         <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition" />
         <item itemvalue="Python.math_op" />
-        <item itemvalue="Python.basic_concept (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598527917254</updated>
-      <workItem from="1598527922721" duration="9924000" />
+      <workItem from="1598527922721" duration="11901000" />
     </task>
     <task id="LOCAL-00001" summary="firstcommit">
       <created>1598537890234</created>
@@ -175,64 +175,143 @@
       <option name="project" value="LOCAL" />
       <updated>1598537890234</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="firstcommit">
+      <created>1598539081804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598539081804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="firstcommit">
+      <created>1598540282936</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598540282936</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstcommit" />
     <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="722" y="1158" key="#Notifications" timestamp="1598540191967">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state x="722" y="1158" key="#Notifications/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540191967" />
     <state x="880" y="1112" key="#try01" timestamp="1598533265989">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
     <state x="880" y="1112" key="#try01/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598533265989" />
-    <state x="777" y="1094" key="CommitChangelistDialog2" timestamp="1598539027258">
+    <state x="777" y="1094" key="CommitChangelistDialog2" timestamp="1598540960324">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="777" y="1094" key="CommitChangelistDialog2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539027258" />
-    <state x="0" y="1080" key="DiffContextDialog" timestamp="1598537808758">
+    <state x="777" y="1094" key="CommitChangelistDialog2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540960324" />
+    <state x="0" y="1080" width="1536" height="868" key="DiffContextDialog" timestamp="1598540809866">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="0" y="1080" key="DiffContextDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598537808758" />
-    <state x="974" y="1399" key="Github.CreateGistDialog" timestamp="1598533287641">
+    <state x="0" y="1080" width="1536" height="868" key="DiffContextDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540809866" />
+    <state x="932" y="1241" key="FileChooserDialogImpl" timestamp="1598541127716">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="974" y="1399" key="Github.CreateGistDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598533287641" />
-    <state width="721" height="214" key="GridCell.Tab.0.bottom" timestamp="1598539068547">
+    <state x="932" y="1241" key="FileChooserDialogImpl/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598541127716" />
+    <state x="974" y="1399" key="Github.CreateGistDialog" timestamp="1598540252266">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
-    <state width="721" height="214" key="GridCell.Tab.0.center" timestamp="1598539068547">
+    <state x="974" y="1399" key="Github.CreateGistDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540252266" />
+    <state width="721" height="214" key="GridCell.Tab.0.bottom" timestamp="1598540212853">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
-    <state width="721" height="214" key="GridCell.Tab.0.left" timestamp="1598539068547">
+    <state width="721" height="214" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540212853" />
+    <state width="721" height="214" key="GridCell.Tab.0.center" timestamp="1598540212853">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
-    <state width="721" height="214" key="GridCell.Tab.0.right" timestamp="1598539068547">
+    <state width="721" height="214" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540212853" />
+    <state width="721" height="214" key="GridCell.Tab.0.left" timestamp="1598540212853">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
+    <state width="721" height="214" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540212853" />
+    <state width="721" height="214" key="GridCell.Tab.0.right" timestamp="1598540212853">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state width="721" height="214" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540212853" />
+    <state width="721" height="264" key="GridCell.Tab.1.bottom" timestamp="1598539600660">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state width="721" height="264" key="GridCell.Tab.1.bottom/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539600660" />
+    <state width="721" height="264" key="GridCell.Tab.1.center" timestamp="1598539600660">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state width="721" height="264" key="GridCell.Tab.1.center/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539600660" />
+    <state width="721" height="264" key="GridCell.Tab.1.left" timestamp="1598539600660">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state width="721" height="264" key="GridCell.Tab.1.left/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539600660" />
+    <state width="721" height="264" key="GridCell.Tab.1.right" timestamp="1598539600660">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state width="721" height="264" key="GridCell.Tab.1.right/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539600660" />
+    <state x="933" y="1210" key="RollbackChangesDialog" timestamp="1598540278312">
+      <screen x="0" y="1080" width="1536" height="840" />
+    </state>
+    <state x="933" y="1210" key="RollbackChangesDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598540278312" />
     <state x="555" y="1140" key="SettingsEditor" timestamp="1598528784407">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
     <state x="555" y="1140" key="SettingsEditor/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598528784407" />
-    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598538983479">
+    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598541162567">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598538983479" />
+    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598541162567" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python101$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1598536584956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$try01.coverage" NAME="basic_concept Coverage Results" MODIFIED="1598533503892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python101$promptpay.coverage" NAME="promptpay Coverage Results" MODIFIED="1598539068541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python101$promptpay.coverage" NAME="promptpay Coverage Results" MODIFIED="1598539201250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$math_op.coverage" NAME="math_op Coverage Results" MODIFIED="1598533961228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$basic_concept__1_.coverage" NAME="basic_concept (1) Coverage Results" MODIFIED="1598533940815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python101$tuple_demo.coverage" NAME="tuple_demo Coverage Results" MODIFIED="1598540001591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$condition.coverage" NAME="condition Coverage Results" MODIFIED="1598536382897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
