@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a03a5fe-de4e-49c2-b32b-d077d0050b82" name="Default Changelist" comment="">
+    <list default="true" id="1a03a5fe-de4e-49c2-b32b-d077d0050b82" name="Default Changelist" comment="firstcommit">
+      <change afterPath="$PROJECT_DIR$/promptpay.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +22,9 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ggEcr2MggT1TvFX44j0cmsUl0z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.condition2">
+  <component name="RunManager" selected="Python.promptpay">
     <configuration name="basic_concept (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python101" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,28 +50,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_concept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="basic_concept" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python101" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,13 +124,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="promptpay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python101" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/promptpay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.promptpay" />
         <item itemvalue="Python.condition2" />
         <item itemvalue="Python.condition" />
         <item itemvalue="Python.math_op" />
         <item itemvalue="Python.basic_concept (1)" />
-        <item itemvalue="Python.basic_concept" />
       </list>
     </recent_temporary>
   </component>
@@ -163,22 +166,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598527917254</updated>
-      <workItem from="1598527922721" duration="8669000" />
+      <workItem from="1598527922721" duration="9924000" />
     </task>
+    <task id="LOCAL-00001" summary="firstcommit">
+      <created>1598537890234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598537890234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstcommit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="880" y="1112" key="#try01" timestamp="1598533265989">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
     <state x="880" y="1112" key="#try01/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598533265989" />
-    <state x="777" y="1094" key="CommitChangelistDialog2" timestamp="1598537811998">
+    <state x="777" y="1094" key="CommitChangelistDialog2" timestamp="1598539027258">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="777" y="1094" key="CommitChangelistDialog2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598537811998" />
+    <state x="777" y="1094" key="CommitChangelistDialog2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539027258" />
     <state x="0" y="1080" key="DiffContextDialog" timestamp="1598537808758">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
@@ -187,34 +202,35 @@
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
     <state x="974" y="1399" key="Github.CreateGistDialog/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598533287641" />
-    <state width="721" height="214" key="GridCell.Tab.0.bottom" timestamp="1598536798491">
+    <state width="721" height="214" key="GridCell.Tab.0.bottom" timestamp="1598539068547">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598536798491" />
-    <state width="721" height="214" key="GridCell.Tab.0.center" timestamp="1598536798491">
+    <state width="721" height="214" key="GridCell.Tab.0.bottom/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
+    <state width="721" height="214" key="GridCell.Tab.0.center" timestamp="1598539068547">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598536798491" />
-    <state width="721" height="214" key="GridCell.Tab.0.left" timestamp="1598536798491">
+    <state width="721" height="214" key="GridCell.Tab.0.center/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
+    <state width="721" height="214" key="GridCell.Tab.0.left" timestamp="1598539068547">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598536798491" />
-    <state width="721" height="214" key="GridCell.Tab.0.right" timestamp="1598536798491">
+    <state width="721" height="214" key="GridCell.Tab.0.left/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
+    <state width="721" height="214" key="GridCell.Tab.0.right" timestamp="1598539068547">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state width="721" height="214" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598536798491" />
+    <state width="721" height="214" key="GridCell.Tab.0.right/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598539068547" />
     <state x="555" y="1140" key="SettingsEditor" timestamp="1598528784407">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
     <state x="555" y="1140" key="SettingsEditor/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598528784407" />
-    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598537819072">
+    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598538983479">
       <screen x="0" y="1080" width="1536" height="840" />
     </state>
-    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598537819072" />
+    <state x="962" y="1417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1536.840/0.0.1920.1050/1920.457.1920.1050@0.1080.1536.840" timestamp="1598538983479" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python101$condition2.coverage" NAME="condition2 Coverage Results" MODIFIED="1598536584956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$try01.coverage" NAME="basic_concept Coverage Results" MODIFIED="1598533503892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python101$promptpay.coverage" NAME="promptpay Coverage Results" MODIFIED="1598539068541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$math_op.coverage" NAME="math_op Coverage Results" MODIFIED="1598533961228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$basic_concept__1_.coverage" NAME="basic_concept (1) Coverage Results" MODIFIED="1598533940815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python101$condition.coverage" NAME="condition Coverage Results" MODIFIED="1598536382897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
